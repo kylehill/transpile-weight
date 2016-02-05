@@ -1,0 +1,9 @@
+class a {
+	constructor () {
+
+	}
+
+	method () {
+		
+	}
+}
