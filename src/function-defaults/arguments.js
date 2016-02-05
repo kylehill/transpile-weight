@@ -1,0 +1,4 @@
+var x = function(a = 1, b = 2, c = 3) {
+	a = 4
+	return arguments
+}
