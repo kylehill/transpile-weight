@@ -1,9 +1,5 @@
 class a {
 	constructor () {
-
-	}
-
-	method () {
 		
 	}
 }

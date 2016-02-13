@@ -1,0 +1,1 @@
+var a = Object.assign({}, { b: 1}, {b: 2})
