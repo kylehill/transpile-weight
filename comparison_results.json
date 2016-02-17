@@ -1,0 +1,324 @@
+[
+  {
+    "section": "class",
+    "file": "multiple-constructor",
+    "es5": 608,
+    "es6": 240,
+    "inflation": 2.533333333333333
+  },
+  {
+    "section": "class",
+    "file": "multiple-empty",
+    "es5": 608,
+    "es6": 90,
+    "inflation": 6.7555555555555555
+  },
+  {
+    "section": "class",
+    "file": "multiple-many-methods",
+    "es5": 4629,
+    "es6": 590,
+    "inflation": 7.845762711864407
+  },
+  {
+    "section": "class",
+    "file": "multiple-one-method",
+    "es5": 1839,
+    "es6": 140,
+    "inflation": 13.135714285714286
+  },
+  {
+    "section": "class",
+    "file": "single-constructor",
+    "es5": 203,
+    "es6": 24,
+    "inflation": 8.458333333333334
+  },
+  {
+    "section": "class",
+    "file": "single-empty",
+    "es5": 203,
+    "es6": 9,
+    "inflation": 22.555555555555557
+  },
+  {
+    "section": "class",
+    "file": "single-extends-add-methods",
+    "es5": 1678,
+    "es6": 38,
+    "inflation": 44.1578947368421
+  },
+  {
+    "section": "class",
+    "file": "single-extends-overwrite-methods",
+    "es5": 1678,
+    "es6": 38,
+    "inflation": 44.1578947368421
+  },
+  {
+    "section": "class",
+    "file": "single-extends",
+    "es5": 1046,
+    "es6": 28,
+    "inflation": 37.357142857142854
+  },
+  {
+    "section": "class",
+    "file": "single-many-methods",
+    "es5": 1065,
+    "es6": 59,
+    "inflation": 18.050847457627118
+  },
+  {
+    "section": "class",
+    "file": "single-one-method",
+    "es5": 786,
+    "es6": 14,
+    "inflation": 56.142857142857146
+  },
+  {
+    "section": "const",
+    "file": "basic",
+    "es5": 33,
+    "es6": 24,
+    "inflation": 1.375
+  },
+  {
+    "section": "const",
+    "file": "block-scoped",
+    "es5": 40,
+    "es6": 30,
+    "inflation": 1.3333333333333333
+  },
+  {
+    "section": "destructuring",
+    "file": "generic",
+    "es5": 65,
+    "es6": 34,
+    "inflation": 1.911764705882353
+  },
+  {
+    "section": "destructuring",
+    "file": "inline-array",
+    "es5": 37,
+    "es6": 20,
+    "inflation": 1.85
+  },
+  {
+    "section": "destructuring",
+    "file": "inline-object",
+    "es5": 83,
+    "es6": 26,
+    "inflation": 3.1923076923076925
+  },
+  {
+    "section": "destructuring",
+    "file": "inline-string",
+    "es5": 678,
+    "es6": 18,
+    "inflation": 37.666666666666664
+  },
+  {
+    "section": "destructuring",
+    "file": "variable-array",
+    "es5": 68,
+    "es6": 32,
+    "inflation": 2.125
+  },
+  {
+    "section": "destructuring",
+    "file": "variable-object",
+    "es5": 71,
+    "es6": 38,
+    "inflation": 1.868421052631579
+  },
+  {
+    "section": "destructuring",
+    "file": "variable-string",
+    "es5": 672,
+    "es6": 30,
+    "inflation": 22.4
+  },
+  {
+    "section": "destructuring",
+    "file": "variable-unknown",
+    "es5": 1435,
+    "es6": 340,
+    "inflation": 4.220588235294118
+  },
+  {
+    "section": "fat-arrow",
+    "file": "arguments",
+    "es5": 97,
+    "es6": 52,
+    "inflation": 1.8653846153846154
+  },
+  {
+    "section": "fat-arrow",
+    "file": "multiple-parens-and-brackets",
+    "es5": 46,
+    "es6": 27,
+    "inflation": 1.7037037037037037
+  },
+  {
+    "section": "fat-arrow",
+    "file": "no-brackets",
+    "es5": 40,
+    "es6": 9,
+    "inflation": 4.444444444444445
+  },
+  {
+    "section": "fat-arrow",
+    "file": "no-params",
+    "es5": 39,
+    "es6": 20,
+    "inflation": 1.95
+  },
+  {
+    "section": "fat-arrow",
+    "file": "no-parens",
+    "es5": 40,
+    "es6": 19,
+    "inflation": 2.1052631578947367
+  },
+  {
+    "section": "fat-arrow",
+    "file": "this-global",
+    "es5": 47,
+    "es6": 23,
+    "inflation": 2.0434782608695654
+  },
+  {
+    "section": "fat-arrow",
+    "file": "this-method",
+    "es5": 94,
+    "es6": 59,
+    "inflation": 1.5932203389830508
+  },
+  {
+    "section": "for-of",
+    "file": "inline-arrays",
+    "es5": 95,
+    "es6": 38,
+    "inflation": 2.5
+  },
+  {
+    "section": "for-of",
+    "file": "multiple-variable-arrays",
+    "es5": 976,
+    "es6": 92,
+    "inflation": 10.608695652173912
+  },
+  {
+    "section": "for-of",
+    "file": "variable-arrays",
+    "es5": 486,
+    "es6": 46,
+    "inflation": 10.565217391304348
+  },
+  {
+    "section": "function-defaults",
+    "file": "arguments",
+    "es5": 256,
+    "es6": 51,
+    "inflation": 5.019607843137255
+  },
+  {
+    "section": "function-defaults",
+    "file": "basic",
+    "es5": 179,
+    "es6": 37,
+    "inflation": 4.837837837837838
+  },
+  {
+    "section": "function-rest",
+    "file": "basic",
+    "es5": 151,
+    "es6": 34,
+    "inflation": 4.4411764705882355
+  },
+  {
+    "section": "let",
+    "file": "basic",
+    "es5": 33,
+    "es6": 20,
+    "inflation": 1.65
+  },
+  {
+    "section": "let",
+    "file": "block-scoped",
+    "es5": 40,
+    "es6": 26,
+    "inflation": 1.5384615384615385
+  },
+  {
+    "section": "object-literal",
+    "file": "destructured-properties",
+    "es5": 49,
+    "es6": 32,
+    "inflation": 1.53125
+  },
+  {
+    "section": "object-literal",
+    "file": "multiple-object-variable-properties",
+    "es5": 526,
+    "es6": 170,
+    "inflation": 3.0941176470588236
+  },
+  {
+    "section": "object-literal",
+    "file": "shorthand-methods",
+    "es5": 49,
+    "es6": 25,
+    "inflation": 1.96
+  },
+  {
+    "section": "object-literal",
+    "file": "single-object-many-variable-properties",
+    "es5": 580,
+    "es6": 188,
+    "inflation": 3.0851063829787235
+  },
+  {
+    "section": "object-literal",
+    "file": "single-object-variable-properties",
+    "es5": 238,
+    "es6": 26,
+    "inflation": 9.153846153846153
+  },
+  {
+    "section": "object-static",
+    "file": "object-assign",
+    "es5": 49,
+    "es6": 36,
+    "inflation": 1.3611111111111112
+  },
+  {
+    "section": "spread",
+    "file": "array-merge",
+    "es5": 47,
+    "es6": 27,
+    "inflation": 1.7407407407407407
+  },
+  {
+    "section": "spread",
+    "file": "function-call",
+    "es5": 61,
+    "es6": 33,
+    "inflation": 1.8484848484848484
+  },
+  {
+    "section": "spread",
+    "file": "multiple-string",
+    "es5": 702,
+    "es6": 250,
+    "inflation": 2.808
+  },
+  {
+    "section": "spread",
+    "file": "string",
+    "es5": 234,
+    "es6": 25,
+    "inflation": 9.36
+  }
+]
